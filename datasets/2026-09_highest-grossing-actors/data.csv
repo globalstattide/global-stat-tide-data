@@ -1,0 +1,101 @@
+#,Actor,"Worldwide Box Office (as shown, US$ bn)",Films Counted,Nationality,Gender,Data Confidence,Film Count Confidence,The Numbers Total on 10 Nov 2026 (US$ bn),The Numbers Lead-Role Films on 10 Nov 2026,Note
+1,Zoe Saldaña,15.47,33,American,Female,Verified,Confirmed,15.95,35,
+2,Scarlett Johansson,15.4,36,American,Female,Verified,Confirmed,15.63,39,
+3,Tom Holland,15.2,24,British,Male,Verified,Confirmed,14.52,18,
+4,Chris Pratt,15.16,29,American,Male,Verified,Confirmed,15.43,28,
+5,Samuel L. Jackson,14.61,70,American,Male,Verified,Confirmed,14.85,73,
+6,Robert Downey Jr.,14.32,45,American,Male,Verified,Confirmed,14.55,45,
+7,Tom Cruise,13.37,45,American,Male,Verified,Confirmed,12.73,46,
+8,Chris Hemsworth,12.19,31,Australian,Male,Verified,Confirmed,12.49,32,
+9,Vin Diesel,12.04,28,American,Male,Verified,Confirmed,12.07,29,
+10,Chris Evans,11.49,29,American,Male,Verified,Confirmed,11.72,31,
+11,Dwayne Johnson,11.47,41,American,Male,Reconstructed,Confirmed,11.83,42,
+12,Bradley Cooper,11.39,30,American,Male,Reconstructed,Confirmed,11.62,30,
+13,Tom Hanks,10.94,59,American,Male,Reconstructed,Confirmed,12.09,61,Differs from The Numbers by more than 10% (see live column)
+14,Johnny Depp,10.36,54,American,Male,Reconstructed,Confirmed,10.36,55,
+15,Mark Ruffalo,9.95,26,American,Male,Reconstructed,Confirmed,10.19,26,
+16,Emma Watson,9.29,16,British,Female,Reconstructed,Confirmed,9.29,16,
+17,Will Smith,9.02,37,American,Male,Reconstructed,Confirmed,9.02,38,
+18,Don Cheadle,9.0,25,American,Male,Reconstructed,Confirmed,9.24,25,
+19,Dave Bautista,8.84,33,American,Male,Reconstructed,Confirmed,9.07,34,
+20,Jeremy Renner,8.78,20,American,Male,Reconstructed,Confirmed,9.01,21,
+21,Karen Gillan,8.5,16,British (Scottish),Female,Reconstructed,Estimated (floor),8.68,19,
+22,Josh Brolin,8.4,25,American,Male,Reconstructed,Estimated (floor),8.91,29,
+23,Elizabeth Olsen,8.4,17,American,Female,Reconstructed,Estimated (floor),8.6,21,
+24,Daniel Radcliffe,8.35,24,British,Male,Reconstructed,Estimated (floor),8.43,27,
+25,Benedict Cumberbatch,8.32,19,British,Male,Reconstructed,Estimated (floor),8.58,25,
+26,Harrison Ford,8.2,42,American,Male,Reconstructed,Estimated (floor),8.59,43,
+27,Sam Worthington,8.0,22,Australian,Male,Reconstructed,Estimated (floor),8.03,26,
+28,Jack Black,7.9,29,American,Male,Reconstructed,Estimated (floor),8.06,33,
+29,Chadwick Boseman,7.75,11,American,Male,Reconstructed,Estimated (floor),7.8,11,Card shows $7.75B; our working file had $7.65B
+30,Rupert Grint,7.7,13,British,Male,Reconstructed,Estimated (floor),7.72,15,
+31,Letitia Wright,7.6,12,British,Female,Reconstructed,Estimated (floor),7.73,13,
+32,Leonardo DiCaprio,7.6,27,American,Male,Reconstructed,Estimated (floor),7.59,30,
+33,Sebastian Stan,7.45,15,Romanian-American,Male,Reconstructed,Estimated (floor),7.69,22,
+34,Matt Damon,7.3,45,American,Male,Reconstructed,Estimated (floor),9.12,49,Differs from The Numbers by more than 10% (see live column)
+35,Brad Pitt,7.25,45,American,Male,Reconstructed,Estimated (floor),7.75,51,Card shows $7.25B; our working file had $7.50B
+36,Idris Elba,7.1,31,British,Male,Reconstructed,Estimated (floor),7.98,38,Card shows $7.10B; our working file had $7.40B; Differs from The Numbers by more than 10% (see live column)
+37,Tom Hiddleston,7.0,13,British,Male,Reconstructed,Estimated (floor),7.19,17,
+38,Danai Gurira,7.0,5,American,Female,Reconstructed,Estimated (floor),7.18,5,
+39,Paul Bettany,6.9,16,British,Male,Reconstructed,Estimated (floor),7.03,16,
+40,Bruce Willis,6.76,88,American,Male,Reconstructed,Estimated (floor),6.82,88,
+41,Eddie Murphy,6.75,45,American,Male,Reconstructed,Estimated (floor),6.77,50,
+42,Liam Neeson,6.68,60,Irish (N. Ireland),Male,Reconstructed,Estimated (floor),6.81,65,
+43,Pom Klementieff,6.55,5,French,Female,Reconstructed,Estimated (floor),6.71,6,
+44,Benedict Wong,6.5,6,British,Male,Reconstructed,Estimated (floor),6.93,7,
+45,Hugh Jackman,6.5,33,Australian,Male,Reconstructed,Estimated (floor),7.91,38,Differs from The Numbers by more than 10% (see live column)
+46,Ben Stiller,6.38,35,American,Male,Reconstructed,Estimated (floor),6.38,38,
+47,Jason Statham,6.3,40,British,Male,Reconstructed,Estimated (floor),6.49,48,
+48,Ian McKellen,6.29,19,British,Male,Reconstructed,Estimated (floor),6.31,22,
+49,Gwyneth Paltrow,6.17,20,American,Female,Reconstructed,Estimated (floor),6.32,20,
+50,Jennifer Lawrence,6.08,24,American,Female,Reconstructed,Estimated (floor),6.1,28,
+51,Mark Wahlberg,6.04,46,American,Male,Reconstructed,Estimated (floor),6.14,52,
+52,Nicolas Cage,6.03,93,American,Male,Reconstructed,Estimated (floor),6.17,104,
+53,Christian Bale,5.86,39,British,Male,Reconstructed,Estimated (floor),5.9,41,
+54,Cameron Diaz,5.83,29,American,Female,Reconstructed,Estimated (floor),5.86,34,
+55,Ewan McGregor,5.82,38,British (Scottish),Male,Reconstructed,Estimated (floor),6.01,41,
+56,Jim Carrey,5.62,30,Canadian,Male,Reconstructed,Estimated (floor),6.11,31,
+57,Natalie Portman,5.58,34,Israeli-American,Female,Reconstructed,Estimated (floor),5.65,39,
+58,Paul Rudd,5.57,30,American,Male,Reconstructed,Estimated (floor),5.93,36,
+59,Brie Larson,5.5,13,American,Female,Reconstructed,Estimated (floor),5.68,15,
+60,Josh Gad,5.47,17,American,Male,Reconstructed,Estimated (floor),5.46,22,
+61,Julia Roberts,5.44,37,American,Female,Reconstructed,Estimated (floor),5.45,41,
+62,Sandra Bullock,5.4,34,American,Female,Reconstructed,Estimated (floor),5.51,35,
+63,Martin Freeman,5.29,15,British,Male,Reconstructed,Estimated (floor),5.33,20,
+64,Adam Sandler,5.24,44,American,Male,Reconstructed,Estimated (floor),5.24,45,
+65,Keanu Reeves,5.19,50,Canadian,Male,Reconstructed,Estimated (floor),5.73,55,Differs from The Numbers by more than 10% (see live column)
+66,Robert De Niro,5.18,77,American,Male,Reconstructed,Estimated (floor),5.19,81,
+67,Sylvester Stallone,5.14,53,American,Male,Reconstructed,Estimated (floor),5.15,54,
+68,Ryan Reynolds,5.1,41,Canadian,Male,Reconstructed,Estimated (floor),6.61,44,Differs from The Numbers by more than 10% (see live column)
+69,Ben Affleck,5.09,45,American,Male,Reconstructed,Estimated (floor),5.22,48,
+70,Ralph Fiennes,5.08,31,British,Male,Reconstructed,Estimated (floor),5.41,36,
+71,Owen Wilson,5.01,37,American,Male,Reconstructed,Estimated (floor),5.07,40,
+72,Adam Driver,4.98,21,American,Male,Reconstructed,Estimated (floor),4.98,25,
+73,Michelle Rodriguez,4.95,18,American,Female,Reconstructed,Estimated (floor),4.93,18,
+74,Daniel Craig,4.86,17,British,Male,Reconstructed,Estimated (floor),4.87,20,
+75,Daisy Ridley,4.85,12,British,Female,Reconstructed,Estimated (floor),4.84,17,
+76,Orlando Bloom,4.84,23,British,Male,Reconstructed,Estimated (floor),4.84,26,
+77,Morgan Freeman,4.8,49,American,Male,Reconstructed,Estimated (floor),5.06,51,
+78,John Boyega,4.8,15,British,Male,Reconstructed,Estimated (floor),4.77,15,
+79,Robin Williams,4.76,37,American,Male,Reconstructed,Estimated (floor),4.79,39,
+80,Mel Gibson,4.72,53,American-Australian,Male,Reconstructed,Estimated (floor),4.64,56,
+81,George Clooney,4.7,35,American,Male,Reconstructed,Estimated (floor),4.89,39,
+82,Will Ferrell,4.69,39,American,Male,Reconstructed,Estimated (floor),4.72,42,
+83,Kevin Hart,4.67,34,American,Male,Reconstructed,Estimated (floor),4.72,37,
+84,Robert Pattinson,4.66,25,British,Male,Reconstructed,Estimated (floor),4.97,28,
+85,Simon Pegg,4.5,26,British,Male,Reconstructed,Estimated (floor),4.51,27,
+86,Lupita Nyong'o,4.5,11,Kenyan-Mexican,Female,Reconstructed,Estimated (floor),5.1,11,Differs from The Numbers by more than 10% (see live column)
+87,Arnold Schwarzenegger,4.48,35,Austrian-American,Male,Reconstructed,Estimated (floor),4.48,38,
+88,Shia LaBeouf,4.46,28,American,Male,Reconstructed,Estimated (floor),4.47,32,
+89,Denzel Washington,4.43,48,American,Male,Reconstructed,Estimated (floor),4.9,49,Differs from The Numbers by more than 10% (see live column)
+90,Evangeline Lilly,4.4,8,Canadian,Female,Reconstructed,Estimated (floor),4.56,8,
+91,Meryl Streep,4.39,50,American,Female,Reconstructed,Estimated (floor),5.12,54,Differs from The Numbers by more than 10% (see live column)
+92,Anthony Mackie,4.39,23,American,Male,Reconstructed,Estimated (floor),4.96,28,Differs from The Numbers by more than 10% (see live column)
+93,Jude Law,4.38,34,British,Male,Reconstructed,Estimated (floor),,,Not in The Numbers lead-role top 100 on 10 Nov 2026 (below $4.42B)
+94,Jon Favreau,4.33,6,American,Male,Reconstructed,Estimated (floor),4.49,6,
+95,Mark Hamill,4.28,12,American,Male,Reconstructed,Estimated (floor),,,Not in The Numbers lead-role top 100 on 10 Nov 2026 (below $4.42B)
+96,Anthony Hopkins,4.26,43,British (Welsh),Male,Reconstructed,Estimated (floor),,,Not in The Numbers lead-role top 100 on 10 Nov 2026 (below $4.42B)
+97,Keegan-Michael Key,4.21,16,American,Male,Reconstructed,Estimated (floor),4.42,18,
+98,Channing Tatum,4.21,32,American,Male,Reconstructed,Estimated (floor),,,Not in The Numbers lead-role top 100 on 10 Nov 2026 (below $4.42B)
+99,Russell Crowe,4.19,43,New Zealand-Australian,Male,Reconstructed,Estimated (floor),,,Not in The Numbers lead-role top 100 on 10 Nov 2026 (below $4.42B)
+100,Anne Hathaway,4.15,28,American,Female,Reconstructed,Estimated (floor),6.68,43,Differs from The Numbers by more than 10% (see live column)

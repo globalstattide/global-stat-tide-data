@@ -1,0 +1,61 @@
+#,Name,Country of Birth,Languages (card),Count (card),Spoken Count (checked),Confidence,Note
+1,Jean Dujardin,France,"French, English",2,2,Partial,Won the Best Actor Oscar for the silent film The Artist
+2,Léa Seydoux,France,"French, English",2,2,Partial,
+3,Eiza González,Mexico,"Spanish, English",2,2,Partial,
+4,Ana de Armas,Cuba,"Spanish, English",2,2,Partial,Learned her first English-language lines phonetically
+5,Camila Cabello,Cuba,"Spanish, English",2,2,Partial,
+6,Dua Lipa,United Kingdom,"English, Albanian",2,2,Partial,Born in London to Kosovo Albanian parents; speaks Albanian fluently
+7,Gal Gadot,Israel,"Hebrew, English",2,2,Partial,
+8,Anya Taylor-Joy,United States,"English, Spanish",2,2,Verified,"Born in Miami, raised in Buenos Aires and London; Spanish was her first language"
+9,Sofía Vergara,Colombia,"Spanish, English",2,2,Partial,
+10,Charlize Theron,South Africa,"Afrikaans, English",2,2,Partial,Afrikaans is her first language
+11,Pedro Pascal,Chile,"Spanish, English",2,2,Partial,
+12,Rami Malek,United States,"English, Arabic",2,2,Verified,"Spoke Arabic backstage at the Oscars, in what he calls broken Egyptian Arabic"
+13,Johnny Depp,United States,"English, French",2,2,Partial,Acted in French for the first time as King Louis XV in Jeanne du Barry
+14,Bradley Cooper,United States,"English, French",2,2,Verified,Gave a long French-language TV interview without an interpreter
+15,Sacha Baron Cohen,United Kingdom,"English, Hebrew",2,2,Verified,"Borat's ""Kazakh"" is mostly Hebrew"
+16,Carmen Miranda,Portugal,"Portuguese, Spanish, English",3,3,Partial,"Born in Portugal, raised in Brazil. Portuguese and English are documented; Spanish is not documented in the sources we checked"
+17,Gina Lollobrigida,Italy,"Italian, English, French",3,3,Partial,Acted in English- and French-language films; spoken fluency not separately documented
+18,Giannis Antetokounmpo,Greece,"Greek, English, Yoruba",3,2,Partial,Yoruba is not documented: his mother spoke Igbo at home and he says he understands only a little of it
+19,Wagner Moura,Brazil,"Portuguese, Spanish, English",3,3,Verified,Learned Spanish to play Pablo Escobar in Narcos; Colombian viewers noticed his Brazilian accent
+20,Diane Kruger,Germany,"German, French, English",3,3,Partial,"Won Best Actress at Cannes for In the Fade, her first German-language role"
+21,Isabella Rossellini,Italy,"Italian, English, French",3,3,Partial,Raised in Rome and Paris
+22,Mila Kunis,Ukraine,"Russian, English, Ukrainian",3,2,Partial,Russian is her mother tongue. She has said she does not speak Ukrainian
+23,Queen Máxima,Argentina,"Spanish, English, Dutch",3,3,Verified,Gave her 2001 engagement interview in Dutch
+24,King Charles III,United Kingdom,"English, French, Welsh",3,3,Verified,His Welsh speeches are prepared texts
+25,Timothée Chalamet,United States,"English, French, Italian",3,3,Verified,Has described himself as nearly fluent in French
+26,Sandra Bullock,United States,"English, German, Mandarin",3,2,Verified,"Spent much of her childhood in Germany and Austria. Her Mandarin was a scripted Oscars joke, not a language she speaks"
+27,Kobe Bryant,United States,"English, Italian, Spanish",3,3,Verified,"Grew up in Italy, where his father played professional basketball"
+28,Alicia Vikander,Sweden,"Swedish, English, French, Danish",4,4,Verified,Acted in Danish in A Royal Affair
+29,Michelle Yeoh,Malaysia,"English, Cantonese, Mandarin, Malay",4,4,Verified,"Learned her Mandarin lines phonetically for Crouching Tiger, Hidden Dragon"
+30,Rafael Nadal,Spain,"Spanish, Catalan, English, French",4,4,Unconfirmed,French not documented in the sources we checked
+31,Monica Bellucci,Italy,"Italian, French, English, Aramaic",4,3,Partial,"Aramaic was learned for one role (The Passion of the Christ). She is also proficient in Portuguese and Spanish, which the card does not list"
+32,Salma Hayek,Mexico,"Spanish, English, French, Arabic",4,4,Unconfirmed,French and Arabic not documented in the sources we checked
+33,Milla Jovovich,Ukraine,"English, Russian, French, Serbian",4,4,Verified,Still speaks Russian with her daughter
+34,Christoph Waltz,Austria,"German, English, French, Italian",4,3,Verified,Has said he does not speak Italian; his Italian scene in Inglourious Basterds was memorised
+35,Penélope Cruz,Spain,"Spanish, English, Italian, French",4,4,Verified,Led an Italian-language film; learned some French lines by ear
+36,Sophia Loren,Italy,"Italian, Neapolitan, English, French",4,4,Verified,First actor to win an acting Oscar for a non-English-language performance (Two Women)
+37,Roger Federer,Switzerland,"Swiss German, German, French, English",4,4,Verified,Often credited with Spanish; AP reported he does not speak it (not counted)
+38,Celine Dion,Canada,"French, English, Spanish, Italian",4,4,Partial,French and English documented as spoken; Spanish and Italian documented only as languages she sings in
+39,Noomi Rapace,Sweden,"Swedish, Icelandic, English, Danish, Norwegian",5,5,Verified,Moved to Iceland as a child and still gives interviews in Icelandic
+40,Daniel Brühl,Spain,"German, Spanish, French, English, Catalan",5,5,Partial,Born in Barcelona to a German father and Spanish mother; acts in several languages
+41,Vincent Cassel,France,"French, English, Portuguese, Italian, Russian",5,5,Verified,Lived in Brazil for years
+42,Anitta,Brazil,"Portuguese, Spanish, English, French, Italian",5,5,Verified,
+43,José Mourinho,Portugal,"Portuguese, English, Spanish, Italian, Catalan",5,5,Verified,"Has coached in Portugal, England, Spain and Italy"
+44,Charles Aznavour,France,"French, Armenian, English, Italian, Spanish",5,5,Partial,Spoke and sang in many languages; born in Paris to Armenian parents
+45,Mads Mikkelsen,Denmark,"Danish, English, French, Swedish, German",5,5,Partial,Fluent in Swedish; played Stravinsky in French. German not separately documented
+46,Lupita Nyong'o,Mexico,"English, Spanish, Luo, Swahili, Korean",5,5,Verified,Born in Mexico City to Kenyan parents; returned to Mexico at 16 to learn Spanish
+47,Tom Hiddleston,United Kingdom,"English, French, Spanish, Ancient Greek, Latin",5,5,Verified,Often credited with Italian; on video he says he knows only a few words (not counted)
+48,Jackie Chan,Hong Kong,"Cantonese, Mandarin, English, Korean, Japanese",5,5,Verified,Often credited with Spanish; he jokes that he does not speak it (not counted)
+49,Ingrid Bergman,Sweden,"Swedish, English, German, French, Italian",5,5,Partial,Spoke all five and acted in each of them
+50,Natalie Portman,Israel,"Hebrew, English, French, Spanish, Japanese",5,5,Verified,Japanese: phrases only
+51,Cristiano Ronaldo,Portugal,"Portuguese, English, Spanish, Italian, Arabic",5,5,Unconfirmed,Arabic and Italian not documented in reputable sources we checked
+52,Dalida,Egypt,"Italian, French, Egyptian Arabic, German, Spanish, Hebrew",6,6,Partial,Born in Cairo to Italian parents. Recorded songs in about eleven languages; Wikipedia says she understood five
+53,Plácido Domingo,Spain,"Spanish, English, Italian, French, German, Russian",6,6,Partial,Count reflects the languages he performs opera in; spoken fluency in each is not documented
+54,Andrea Bocelli,Italy,"Italian, English, Spanish, French, German, Latin",6,6,Unconfirmed,Sings in all six; spoken German and Latin are not documented
+55,Pope Leo XIV,United States,"English, Italian, Spanish, French, Portuguese, Latin",6,6,Verified,Born in Chicago; spent years as a missionary in Peru
+56,Pope Francis,Argentina,"Spanish, Italian, English, French, German, Portuguese",6,6,Verified,Has said his English is poor
+57,Audrey Hepburn,Belgium,"English, French, Dutch, Italian, Spanish, German",6,6,Verified,Born in Brussels; learned Dutch during the war in Arnhem
+58,Viggo Mortensen,United States,"English, Spanish, Danish, French, Italian, Swedish, Norwegian",7,7,Verified,Raised speaking English and Spanish; fluent in Danish
+59,Shakira,Colombia,"Spanish, English, Portuguese, French, Catalan, Italian, Arabic",7,6,Verified,Arabic is sung only; she has not given interviews in it
+60,Rosalía,Spain,"Spanish, Catalan, English, Italian, Portuguese, French, Japanese, Latin",8,,Verified,Sings in many languages; by the video's own account she speaks about three. No exact spoken count
