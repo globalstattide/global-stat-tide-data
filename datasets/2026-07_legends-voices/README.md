@@ -15,6 +15,7 @@
 | Born, Died, Age at Death | Life dates |
 | Country | The country shown on the video card |
 | Field | Our grouping: Politics & Leadership, Music, Film, Science, Sport, Business, Literature, Civil Rights, Religion, Philosophy, Royalty |
+| Source 1, Source 2 | The person's Wikipedia article and their Encyclopaedia Britannica article (for Princess Diana, Britannica's facts page) |
 
 ## By the numbers
 - **Politics & Leadership** 22 · **Music** 13 · **Film** 8 · **Science** 6 · **Sport** 5
@@ -22,7 +23,7 @@
 - **The "27 Club":** four musicians on the list died at 27: Jim Morrison, Jimi Hendrix, Kurt Cobain and Amy Winehouse.
 
 ## Sources
-Encyclopaedia Britannica and cited Wikipedia biographies, checked by Global Stat Tide.
+Encyclopaedia Britannica and cited Wikipedia biographies, checked by Global Stat Tide. Every row links both pages in the Source 1 and Source 2 columns.
 
 ## Corrections
 - **Steve Jobs:** the card shows 1960–2020 and age 60. The correct dates are **1955–2011 (age 56)**.
