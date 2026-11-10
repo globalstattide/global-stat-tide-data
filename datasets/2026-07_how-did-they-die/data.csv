@@ -1,0 +1,74 @@
+#,Name,Cause of Death,Age at Death,Country,Year of Death,Category,Certainty,Note
+1,Malcolm X,Assassination,39,United States,1965,Violent,Documented,
+2,Confucius,Old age,72,China,479 BC,Natural,Traditional account,Dates and age come from traditional sources
+3,Rasputin,Assassination,47,Russia,1916,Violent,Documented,
+4,Socrates,Execution,71,Greece,399 BC,Violent,Documented,Sentenced to drink hemlock
+5,Benazir Bhutto,Assassination,54,Pakistan,2007,Violent,Documented,
+6,Queen Victoria,Old age,81,United Kingdom,1901,Natural,Documented,
+7,Martin Luther King Jr.,Assassination,39,United States,1968,Violent,Documented,
+8,Che Guevara,Execution,39,Argentina,1967,Violent,Documented,
+9,Shinzo Abe,Assassination,67,Japan,2022,Violent,Documented,
+10,Mao Zedong,Heart attack,82,China,1976,Illness,Documented,
+11,Abraham Lincoln,Assassination,56,United States,1865,Violent,Documented,
+12,Isaac Newton,Old age,84,United Kingdom,1727,Natural,Documented,
+13,John F. Kennedy,Assassination,46,United States,1963,Violent,Documented,
+14,Margaret Thatcher,Stroke,87,United Kingdom,2013,Illness,Documented,
+15,Julius Caesar,Assassination,55,Italy,44 BC,Violent,Documented,
+16,Bob Marley,Cancer,36,Jamaica,1981,Illness,Documented,
+17,Ayrton Senna,Car crash,34,Brazil,1994,Accident,Documented,
+18,José Rizal,Execution,35,Philippines,1896,Violent,Documented,
+19,Mother Teresa,Heart attack,87,India,1997,Illness,Documented,
+20,Pope John Paul II,Heart failure,84,Poland,2005,Illness,Documented,
+21,Mikhail Gorbachev,Illness,91,Russia,2022,Illness,Documented,
+22,Fidel Castro,Old age,90,Cuba,2016,Natural,Documented,
+23,Osama bin Laden,Shooting,54,Saudi Arabia,2011,Violent,Documented,Killed in a US special forces raid
+24,Vladimir Lenin,Stroke,53,Russia,1924,Illness,Documented,
+25,Vincent van Gogh,Suicide,37,Netherlands,1890,Suicide,Documented,
+26,Anthony Perkins,AIDS,60,United States,1992,Illness,Documented,
+27,Mahatma Gandhi,Assassination,78,India,1948,Violent,Documented,
+28,Pelé,Cancer,82,Brazil,2022,Illness,Documented,
+29,Princess Diana,Car crash,36,United Kingdom,1997,Accident,Documented,
+30,Heath Ledger,Drug overdose,28,Australia,2008,Accident,Documented,Accidental overdose of prescription drugs
+31,Saddam Hussein,Execution,69,Iraq,2006,Violent,Documented,
+32,William Shakespeare,Fever,52,United Kingdom,1616,Illness,Disputed,Cause not recorded; fever is one common theory
+33,Diego Maradona,Heart attack,60,Argentina,2020,Illness,Documented,
+34,Pablo Picasso,Heart failure,91,Spain,1973,Illness,Documented,
+35,Genghis Khan,Illness,65,Mongolia,1227,Illness,Disputed,Exact cause unknown; accounts differ
+36,Buddha,Old age,80,Nepal,c. 480 BC,Natural,Traditional account,Dates and age come from traditional sources
+37,Prince,Overdose,57,United States,2016,Accident,Documented,Accidental fentanyl overdose
+38,John Lennon,Shooting,40,United Kingdom,1980,Violent,Documented,
+39,Joseph Stalin,Stroke,74,Georgia,1953,Illness,Documented,
+40,Cleopatra,Suicide,39,Egypt,30 BC,Suicide,Traditional account,
+41,Freddie Mercury,AIDS,45,United Kingdom,1991,Illness,Documented,
+42,Stephen Hawking,ALS,76,United Kingdom,2018,Illness,Documented,
+43,Albert Einstein,Aneurysm,76,Germany,1955,Illness,Documented,
+44,Marie Curie,Aplastic anemia,66,Poland,1934,Illness,Documented,Linked to long exposure to radiation
+45,Muammar Gaddafi,Assassination,69,Libya,2011,Violent,Documented,Killed by rebel fighters after his capture
+46,Steve Jobs,Cancer,56,United States,2011,Illness,Documented,
+47,Paul Walker,Car crash,40,United States,2013,Accident,Documented,
+48,Bruce Lee,Cerebral edema,32,United States,1973,Illness,Documented,
+49,Franklin D. Roosevelt,Cerebral hemorrhage,63,United States,1945,Illness,Documented,
+50,Mustafa Kemal Atatürk,Cirrhosis,57,Turkey,1938,Illness,Documented,
+51,Jesus Christ,Crucifixion,33,Israel,c. AD 30–33,Violent,Traditional account,Age and date come from traditional sources
+52,Thomas Edison,Diabetes,84,United States,1931,Illness,Documented,
+53,Amelia Earhart,Disappearance,39,United States,1937,Unknown,Disputed,Disappeared over the Pacific; never found
+54,Whitney Houston,Drowning,48,United States,2012,Accident,Documented,
+55,Michael Jackson,Drug overdose,50,United States,2009,Accident,Documented,
+56,Alexander the Great,Fever,32,Greece,323 BC,Illness,Disputed,"Cause debated (fever, poisoning and other theories)"
+57,Elvis Presley,Heart attack,42,United States,1977,Illness,Documented,
+58,Nikola Tesla,Heart failure,86,Serbia,1943,Illness,Documented,
+59,Kobe Bryant,Helicopter crash,41,United States,2020,Accident,Documented,
+60,Wolfgang Amadeus Mozart,Illness,35,Austria,1791,Illness,Disputed,Exact illness unknown
+61,Sukarno,Kidney failure,69,Indonesia,1970,Illness,Documented,
+62,Ludwig van Beethoven,Liver disease,56,Germany,1827,Illness,Documented,
+63,Leonardo da Vinci,Natural causes,67,Italy,1519,Natural,Documented,
+64,Queen Elizabeth II,Old age,96,United Kingdom,2022,Natural,Documented,
+65,Marilyn Monroe,Overdose,36,United States,1962,Accident,Disputed,Ruled a probable suicide by overdose
+66,Ronald Reagan,Pneumonia,93,United States,2004,Illness,Documented,
+67,Muhammad Ali,Respiratory illness,74,United States,2016,Illness,Documented,
+68,Nelson Mandela,Respiratory infection,95,South Africa,2013,Illness,Documented,
+69,Tupac Shakur,Shooting,25,United States,1996,Violent,Documented,
+70,Napoleon Bonaparte,Stomach cancer,51,France,1821,Illness,Documented,
+71,Charlie Chaplin,Stroke,88,United Kingdom,1977,Illness,Documented,
+72,Muhammad Ali Jinnah,Tuberculosis,71,Pakistan,1948,Illness,Documented,
+73,Anne Frank,Typhus,15,Germany,1945,Illness,Documented,"Died in Bergen-Belsen concentration camp; born in Germany, lived in the Netherlands"
