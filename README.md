@@ -2,7 +2,7 @@
 
 The research behind every ranking on the **[Global Stat Tide](https://www.youtube.com/@GlobalStatTide)** YouTube channel, published openly so anyone can check our numbers, reuse them, or correct us.
 
-**39 datasets · 4,042 rows · every dataset linked to its video, its sources and its method**
+**40 datasets · 4,114 rows · every dataset linked to its video, its sources and its method**
 
 ## How we work
 - Every video starts as a research spreadsheet built from public, citable sources: IMF, World Bank, UN, Forbes, Britannica, Wikipedia (cited entries), official records and major news outlets.
@@ -53,6 +53,7 @@ The research behind every ranking on the **[Global Stat Tide](https://www.youtub
 | 2026-11-01 | [Your Favorite Celebrity's Net Worth Is Not What You Think!](https://www.youtube.com/watch?v=40MBQcmzPjI) | [2026-11_celebrity-net-worth](datasets/2026-11_celebrity-net-worth/) | 107 |
 | 2026-11-05 | [Founders of World's Biggest AI Companies!](https://www.youtube.com/watch?v=PIlUfKRtFBw) | [2026-11_ai-company-founders](datasets/2026-11_ai-company-founders/) | 70 |
 | 2026-11-08 | [The Real Heights of Famous People Will Shock You](https://www.youtube.com/watch?v=bnoMj8RtFOY) | [2026-11_real-heights-famous-people](datasets/2026-11_real-heights-famous-people/) | 102 |
+| 2026-11-12 | [Hollywood Fathers vs. Sons: Who's More Famous Now?](https://www.youtube.com/watch?v=SLyA8O87h7U) | [2026-11_hollywood-fathers-sons](datasets/2026-11_hollywood-fathers-sons/) | 72 |
 
 ## Not included
 Four videos have no public dataset: two rankings were built on proprietary third-party index data (passport strength, cost of living), one could not be matched reliably to its sources (largest shopping malls), and one dealt with personal health matters of real people (addiction).
